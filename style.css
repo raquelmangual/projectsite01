@@ -1,0 +1,18 @@
+/* Define styles for the page */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: hotpink;
+}
+
+/* Define styles for the section where the random quote will be displayed */
+.container {
+  text-align: center;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
